@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "今すぐKiss Me",
+  "base_artist": "LINDBERG",
+  "createdAt": "2026-02-21T07:13:27.262593Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "今すぐKiss Me",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/01_今すぐKiss_Me_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "今すぐKiss Me",
+      "artist": "LINDBERG",
+      "has_synced": false,
+      "path": "select/02_今すぐKiss_Me_LINDBERG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "今すぐKiss Me",
+      "artist": "LINDBERG",
+      "has_synced": true,
+      "path": "select/03_今すぐKiss_Me_LINDBERG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "今すぐKiss me",
+      "artist": "中川翔子",
+      "has_synced": false,
+      "path": "select/04_今すぐKiss_me_中川翔子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "今すぐKiss Me ～2007 New Mix～",
+      "artist": "LINDBERG",
+      "has_synced": true,
+      "path": "select/05_今すぐKiss_Me_~2007_New_Mix~_LINDBERG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "今すぐKiss Me(2007 New Mix)",
+      "artist": "LINDBERG",
+      "has_synced": true,
+      "path": "select/06_今すぐKiss_Me(2007_New_Mix)_LINDBERG.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "今すぐKiss Me",
+      "artist": "LINDBERG",
+      "has_synced": true,
+      "path": "select/07_今すぐKiss_Me_LINDBERG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "今すぐKiss Me！",
+      "artist": "Akaseakari",
+      "has_synced": false,
+      "path": "select/08_今すぐKiss_Me!_Akaseakari.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今すぐKiss Me",
+      "artist": "LINDBERG",
+      "has_synced": false,
+      "path": "select/pl_01_今すぐKiss_Me_LINDBERG.txt"
+    }
+  ]
+}
